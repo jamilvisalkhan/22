@@ -131,11 +131,11 @@ logo=("""
 |/__\|/__\|/__\|/__\|/__\|
  
 \33[1;37m----------------------------------------------
-→   Owner      :  Jamil HKR MAFIA KING 💪
-→   Facebook   :  Jamil HKR
-→   Github     : Jamil king HKR
-  →   Tools   :  RANDOM 
-\x1b[1;97m→   Version    :  0.1
+→   Owner      :      Jamil HKR MAFIA KING 💪
+→   Faceboo  : Jamil HKR
+→   Github      :     Jamil king HKR
+  →   Tools      :     RANDOM 
+\x1b[1;97m→       Version    :  0.1
 4G/3G full speed internet 💔Update Coming Soon
 \33[1;37m----------------------------------------------""")
 
